@@ -11,7 +11,7 @@ This project, developed during Hackfest 2024 - Novo Nordisk, focuses on integrat
 4. Data Visualization: Visualizing data composition and trends.
 5. Dynamic Dashboard Creation: Building a dashboard to dynamically visualize data and detect anomalies.
 
-# Tools & Technologies
+# Tools
 1. Python (Jupyter Notebook / Google Colab): For data preprocessing and analysis.
 2. PowerBI: To create interactive visualizations and dashboards.
 
