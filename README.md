@@ -1,4 +1,4 @@
-# Hackfest_2024-PS_6
+# Integrated Data Visualization Dashboard for Anomaly Detection and Analysis using Clinical Audit Report
 
 # Overview
 This project, developed during Hackfest 2024 - Novo Nordisk, focuses on integrating data from various formats into a more readable, analyzable form and providing visual tools to enhance anomaly detection. By leveraging dynamic dashboards and visualization tools, we aim to improve data readability, analysis, and insights extraction, especially in domains like audit trails, compliance, and user activity tracking.
